@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Conan.Infrastructure.Identity
+namespace Conan.Infrastructure.Data.Entities
 {
     public class ApplicationUser : IdentityUser
     {
