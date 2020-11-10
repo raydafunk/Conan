@@ -8,7 +8,7 @@ namespace Conan.Infrastructure.Data.Entities
     public class ApplicationUser : IdentityUser
     {
         // Extended  Properties
-
+        
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
