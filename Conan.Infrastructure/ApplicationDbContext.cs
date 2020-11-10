@@ -8,7 +8,7 @@ namespace Conan.Infrastructure
     {
         public ApplicationDbContext(DbContextOptions options): base(options)
         {
-
+             
         }
 
     }
